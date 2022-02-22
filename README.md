@@ -74,4 +74,5 @@ following SML code.
 
 
 ->Type Ctrl+D to exit sml terminal
+
 ->Type Ctrl+C to interrupt sml
