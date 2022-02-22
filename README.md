@@ -70,3 +70,8 @@ following SML code.
 2. Load the source file by typing use "filename.sml" ;
 3. call the interpret function by typing interpret("filename") ;
 4. Give inputs as prompted by the interactive program
+
+
+
+->Type Ctrl+D to exit sml terminal
+->Type Ctrl+C to interrupt sml
